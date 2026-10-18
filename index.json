@@ -1,0 +1,11 @@
+{
+  "org": "aiortc",
+  "repo": "aioice",
+  "versions": [
+    {
+      "commit": "d17b5378249c8fd119b88d2713de378b2cd13995",
+      "tag": "",
+      "parsed_at": "2026-10-18T09:03:58.587141+00:00"
+    }
+  ]
+}
