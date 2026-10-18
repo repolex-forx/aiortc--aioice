@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aiortc/aioice/commit/d17b5378249c8fd119b88d2713de378b2cd13995",
       "git:hexsha": "d17b5378249c8fd119b88d2713de378b2cd13995",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/aiortc/aioice/commit/0a39591edeea9cb654e8b0717880fe703c3e0983",
